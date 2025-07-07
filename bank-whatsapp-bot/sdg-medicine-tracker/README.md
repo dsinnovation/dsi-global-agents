@@ -1,3 +1,6 @@
+![Build Status](https://img.shields.io/badge/status-active-brightgreen)
+![Repo Size](https://img.shields.io/github/repo-size/dsinnovation/dsi-global-agents)
+![Last Commit](https://img.shields.io/github/last-commit/dsinnovation/dsi-global-agents)
 # DSI.Global | Modular Agent Systems
 
 This repository contains AI agents developed by DSI.Global for enterprise automation, SDG tools, and Web3 integrations.
